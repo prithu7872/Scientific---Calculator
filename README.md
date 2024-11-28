@@ -1,8 +1,3 @@
-*** Scientific---Calculator
-Sure! Here’s the updated description including HTML, JavaScript, and CSS as technologies used in your advanced scientific calculator:
-
----
-
 # Advanced Scientific Calculator
 
 ## Description
